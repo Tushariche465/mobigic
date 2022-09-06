@@ -33,7 +33,7 @@ class _SplashScreenState extends State<SplashScreen> {
             fit: BoxFit.fill
           )
         ),
-        child: Text('Mobigic Technologies'),
+        //child: Text('Mobigic Technologies'),
 
       )
     )
